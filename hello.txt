@@ -1,8 +1,1 @@
-WELCOME TO STUDENT TRANING PROGRAM
-Today is the first day of student training program
-Today is the second day of student training program
-Today is the third day of student training program
-We created connection between terminal and GitHub
-We are editing our file
-Today is fourth day of student training program
 Starting the practical
