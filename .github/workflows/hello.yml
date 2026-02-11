@@ -1,0 +1,11 @@
+name: First CI Job
+
+on: [push]
+
+jobs:
+  simple-job:
+    runs-on: Ubantu-Latest
+    steps:
+    -name: Print message
+    run: echo "CI is running successfully"
+ 
